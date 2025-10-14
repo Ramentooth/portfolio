@@ -9,6 +9,6 @@ Detailed description
 ![Running Calculator](https://github.com/Ramentooth/portfolio/blob/main/images/calculator.png?raw=true
 )
 
-* [Windows EXE]()
+* [Windows EXE](https://github.com/Ramentooth/portfolio/blob/main/src/windows-amd64.zip)
 * [MacOSX](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source code](https://github.com/Ramentooth/portfolio/upload/main/src)
