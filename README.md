@@ -6,8 +6,9 @@
 
 Detailed description
 
-![Running Calculator]()
+![Running Calculator](https://github.com/Ramentooth/portfolio/blob/main/images/calculator.png?raw=true
+)
 
 * [Windows EXE]()
-* [MacOSX]()
+* [MacOSX](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source code]()
