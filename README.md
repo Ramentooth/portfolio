@@ -11,4 +11,4 @@ When the program runs, a gray window appears with several blue buttons arranged 
 
 * [Windows EXE](https://github.com/Ramentooth/portfolio/blob/main/src/windows-amd64.zip)
 * [MacOSX](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
-* [Source code](https://github.com/Ramentooth/portfolio/tree/main/src)
+* [Source code]([https://github.com/Ramentooth/portfolio/tree/main/src/Calculator)
