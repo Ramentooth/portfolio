@@ -13,5 +13,4 @@ When the program runs, a gray window appears with several blue buttons arranged 
 * [MacOSX](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source code](https://github.com/Ramentooth/portfolio/tree/main/src/Calculator)
 
-![Computer UML](https://github.com/Ramentooth/portfolio/blob/main/images/CalculatorUML.jpg?raw=true
-)
+![Computer UML](https://github.com/Ramentooth/portfolio/blob/main/images/CalculatorUML-2.jpg?raw=true)
