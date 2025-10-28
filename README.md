@@ -9,8 +9,8 @@ When the program runs, a gray window appears with several blue buttons arranged 
 ![Running Calculator](https://github.com/Ramentooth/portfolio/blob/main/images/calculator.png?raw=true
 )
 
-* [Windows EXE](https://github.com/Ramentooth/portfolio/blob/main/src/windows-amd64.zip)
-* [MacOSX](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
+* [Windows EXE](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/calculator_program.exe)
+* [MacOSX](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/calculator_program.app.zip)
 * [Source code](https://github.com/Ramentooth/portfolio/tree/main/src/Calculator)
 
 ![Computer UML](https://github.com/Ramentooth/portfolio/blob/main/images/CalculatorUML-2.jpg?raw=true)
