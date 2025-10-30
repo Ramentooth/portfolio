@@ -59,7 +59,7 @@ void draw() {
 void keyReleased() {
   println("Key:" + key);
   println("KeyCode:" + keyCode);
-  if (keyCode == 61 || keyCode == 107) {
+  if (keyCode == 107) {
     dVal = "0.0";
     left = false;
     op = "+";
@@ -283,12 +283,12 @@ void keyReleased() {
         dVal = dVal.substring(0, dVal.length() - 1);
         r = float(dVal);
       }
-  } else if (keyCode == 10) {
+  } else if (keyCode == 10 || keyCode == 61) {
     performCalculation();
       dVal = str(result);
       left = false;
       op = "=";
-  } else if (keyCode == 46) {
+  } else if (keyCode == 46 || keyCode == 110) {
     if (dVal.contains(".") == false) {
         dVal += ".";
       }
