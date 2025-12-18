@@ -12,6 +12,6 @@ When the program runs, a gray window appears with several blue buttons arranged 
 * [Windows EXE](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/calculator_program.exe)
 * [MacOSX](https://github.com/Ramentooth/portfolio/blob/main/src/Calculator/calculator_program.app.zip)
 * [Source code](https://github.com/Ramentooth/portfolio/tree/main/src/Calculator)
-* [State CTE Certifications](https://github.com/Ramentooth/portfolio/blob/main/KappStudy%20Report%20-%20Student.pdf)
+* [State CTE Certifications](https://github.com/Ramentooth/portfolio/blob/main/Simon%20Sakata_Computer%20Programming%201_12182025.pdf)
 
 ![Computer UML](https://github.com/Ramentooth/portfolio/blob/main/images/CalculatorUML-2.jpg?raw=true)
