@@ -21,8 +21,27 @@ When the program runs, a gray window appears with several blue buttons arranged 
 ![Timeline](https://github.com/Ramentooth/portfolio/blob/main/images/Cp1HistTimeline.png?raw=true
 )
 
+* [Source Code](https://github.com/Ramentooth/portfolio/blob/main/src/histtimeline2.pde)
+
 ### Grade Calculator (2025)
+
+![GradeCalc](https://github.com/Ramentooth/portfolio/blob/main/images/Cp1GradeConverter.png?raw=true
+)
+
+* [Source Code](https://github.com/Ramentooth/portfolio/blob/main/src/grade.pde)
 
 ### Making Cars (2025)
 
+
+![MakingCars](https://github.com/Ramentooth/portfolio/blob/main/images/Cp1MakingCars.png?raw=true
+)
+
+* [Source Code](https://github.com/Ramentooth/portfolio/tree/main/src/MakingCars3)
+
 ### MusikHelfer (2025)
+
+![MusikHelfer](https://github.com/Ramentooth/portfolio/blob/main/images/Cp1MusicHelfer.png?raw=true
+)
+
+* [Source Code](https://github.com/Kai535813/Musikhelfer/tree/main/src/Musikhelfer)
+
