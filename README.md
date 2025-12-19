@@ -15,3 +15,14 @@ When the program runs, a gray window appears with several blue buttons arranged 
 * [State CTE Certifications](https://github.com/Ramentooth/portfolio/blob/main/Simon%20Sakata_Computer%20Programming%201_12182025.pdf)
 
 ![Computer UML](https://github.com/Ramentooth/portfolio/blob/main/images/CalculatorUML-2.jpg?raw=true)
+
+### Computer History Timeline (2025)
+
+![Timeline](https://github.com/Ramentooth/portfolio/blob/main/images/Cp1HistTimeline.png?raw=true
+)
+
+### Grade Calculator (2025)
+
+### Making Cars (2025)
+
+### MusikHelfer (2025)
