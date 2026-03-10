@@ -60,6 +60,8 @@ This Proccesing program runs an all in one music helper which includes a tuner, 
 
 In the following appilication my following contribution was the Resource class which functions similar to the disease class but instead can be used to collect resources to supply the pharmacies with the resources necessary to treat the diseases. 
 
+Opening scene: The player as the Jade Emperor's Son is sent down to East Asia for causing trouble in the Imperial Court in order to cure the people. Game then switches to screen showing a map of East Asia. Icons appear to represent sickness and the player can user medicine to cure. UI will have icons to represent how much medicine the user has and what type. Each sickness has different attributes and therefore require different medicines. The medicine of the player will either be sourced through market purchases or individual sourcing from natrual resources. The stages of the game will be in cycles of "years" and after a certain number of cycles, new features of the game will be gradually added. The scope the player opperates will be porportional to their reputation, so players will likely be able to expand their scope as they play the game. The player loses the game once their reputation drops to a given level, meaning that the player can be in debt, but will drop the player's reputation in fixed periods of time after a grace period.
+
 ![Daoist](https://github.com/Ramentooth/portfolio/blob/main/images/Untitled.png?raw=true
 )
 
