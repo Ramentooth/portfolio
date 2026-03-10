@@ -54,3 +54,13 @@ This Proccesing program runs an all in one music helper which includes a tuner, 
 
 * [Source Code](https://github.com/Kai535813/Musikhelfer/tree/main/src/Musikhelfer)
 
+## Projects for Term 2
+
+### Daoist pharmaceutical 
+
+In the following appilication my following contribution was the Resource class which functions similar to the disease class but instead can be used to collect resources to supply the pharmacies with the resources necessary to treat the diseases. 
+
+![Daoist](https://github.com/Ramentooth/portfolio/blob/main/images/Untitled.png?raw=true
+)
+
+* [GitHub Repository](https://github.com/Kai535813/--Daoist-Pharmaceutical)
